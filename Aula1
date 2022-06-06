@@ -1,0 +1,12 @@
+<formação de ação="" método="post">
+    <nome de entrada="nome" espaço reservado="nome"><br>
+    <nome de entrada="cidade" espaço reservado="cidade"><br/>
+
+    <botão>Enviar</botão>
+</forma>
+
+<?php
+    se ($_POST) {
+        ecoar "OI". $_POST['nome'];
+    }
+?>
