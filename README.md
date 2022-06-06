@@ -20,3 +20,5 @@ Repositório para envio dos exercícios de PHP nas aulas do Programa DevStart.
 [Aula 09](https://github.com/renatoomatsuo/beacademy-devstart-introducaophp/blob/main/Aula9)
 
 [Aula 10](https://github.com/renatoomatsuo/beacademy-devstart-introducaophp/blob/main/Aula10)
+
+[Funções](https://github.com/renatoomatsuo/beacademy-devstart-introducaophp/tree/main/funcoes)
